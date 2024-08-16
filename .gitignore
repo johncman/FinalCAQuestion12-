@@ -8,3 +8,4 @@ BUILD
 .cache
 compile_commands.json
 .clangd
+LSM6DSL
